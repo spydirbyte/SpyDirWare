@@ -1,0 +1,9 @@
+rich
+pyautogui
+psutil
+pygetwindow
+requests
+opencv-python
+pillow
+browser-history
+pywin32
